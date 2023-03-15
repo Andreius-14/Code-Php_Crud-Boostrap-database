@@ -1,0 +1,13 @@
+
+🌲 Modo Editar:
+
+    🌿 Al precionar editar 
+        🌱 Formulario de Index.php rellenar con la data
+
+    🌿 El archivo Edit.php
+        🌱 La idea es que no exista
+        🌱 El codigo ira en a edit pero rellenara el formulario Original
+
+    🌿 Boton
+        🌱 AL Rrellenar el Form - 🔘 Aparece el Boton
+        🌱 El Aparace un 🔘 Boton extra que permite cancelar la operacion
